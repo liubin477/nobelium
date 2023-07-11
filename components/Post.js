@@ -21,7 +21,7 @@ import TableOfContents from '@/components/TableOfContents'
  */
 export default function Post (props) {
   const BLOG = useConfig()
-  const { post, blockMap, emailHash, fullWidth = true } = props
+  const { post, blockMap, emailHash, fullWidth = false } = props
   const { dark } = useTheme()
 
   return (
