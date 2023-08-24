@@ -249,3 +249,8 @@ pre[class*='language-'] {
 .nobelium-toggle-content > :last-child {
   @apply mb-0;
 }
+
+
+.medium-zoom-image {
+  width: 50%;
+}
