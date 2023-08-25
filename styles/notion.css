@@ -250,7 +250,6 @@ pre[class*='language-'] {
   @apply mb-0;
 }
 
-
-.medium-zoom-image {
+.notion-asset-wrapper img {
   width: 50%;
 }
